@@ -1,7 +1,4 @@
 name: Build Java
-permissions:
-  contents: read
-  packages: write
 on:
   workflow_dispatch:
   schedule:
@@ -49,4 +46,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/cloudsstudios/yolks:java_${{ matrix.tag }}
+            ghcr.io/clouds-studios/yolks:java_${{ matrix.tag }}
