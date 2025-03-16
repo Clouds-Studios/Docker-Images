@@ -46,4 +46,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/cloudsstudios/java:java_${{ matrix.tag }}
+            ghcr.io/cloudsstudios/Docker-Images:java_${{ matrix.tag }}
