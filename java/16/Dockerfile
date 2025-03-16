@@ -32,6 +32,10 @@ RUN 		apt-get update -y \
  			&& apt-get install -y lsof curl ca-certificates openssl git tar sqlite3 fontconfig libfreetype6 tzdata iproute2 libstdc++6 \
  			&& useradd -d /home/container -m container
 
+# Modified by Clouds Studios : Create a /lib/x86_64-linux-gnu/libc.so.6 symlink to /lib/libc.so and /lib/x86_64-linux-gnu/libc.so
+RUN 		ln -s /lib/x86_64-linux-gnu/libc.so.6 /lib/libc.so \
+ 			&& ln -s /lib/x86_64-linux-gnu/libc.so.6 /lib/x86_64-linux-gnu/libc.so
+
 USER        container
 ENV         USER=container HOME=/home/container
 WORKDIR     /home/container
