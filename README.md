@@ -19,25 +19,25 @@ is tagged correctly.
 ## Available Images
 
 * [`java`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java)
-  * [`java11`](https://github.com/pterodactyl/yolks/tree/master/java/11)
+  * [`java11`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/11)
     * `ghcr.io/pterodactyl/yolks:java_11`
-  * [`java11 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/11j9)
+  * [`java11 - OpenJ9`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/11j9)
     * `ghcr.io/pterodactyl/yolks:java_11j9`
-  * [`java16`](https://github.com/pterodactyl/yolks/tree/master/java/16)
+  * [`java16`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/16)
     * `ghcr.io/pterodactyl/yolks:java_16`
-  * [`java16 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/16j9)
+  * [`java16 - OpenJ9`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/16j9)
     * `ghcr.io/pterodactyl/yolks:java_16j9`
-  * [`java17`](https://github.com/pterodactyl/yolks/tree/master/java/17)
+  * [`java17`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/17)
     * `ghcr.io/pterodactyl/yolks:java_17`
-  * [`java17 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/17j9)
+  * [`java17 - OpenJ9`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/17j9)
     * `ghcr.io/pterodactyl/yolks:java_17j9`
-  * [`java18`](https://github.com/pterodactyl/yolks/tree/master/java/18)
+  * [`java18`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/18)
     * `ghcr.io/pterodactyl/yolks:java_18`
-  * [`java18 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/18j9)
+  * [`java18 - OpenJ9`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/18j9)
     * `ghcr.io/pterodactyl/yolks:java_18j9`
-  * [`java19`](https://github.com/pterodactyl/yolks/tree/master/java/19)
+  * [`java19`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/19)
     * `ghcr.io/pterodactyl/yolks:java_19`
-  * [`java19 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/19j9)
+  * [`java19 - OpenJ9`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/19j9)
     * `ghcr.io/pterodactyl/yolks:java_19j9`
-  * [`java21`](https://github.com/pterodactyl/yolks/tree/master/java/21)
+  * [`java21`](https://github.com/Clouds-Studios/Docker-Images/tree/master/java/21)
     * `ghcr.io/pterodactyl/yolks:java_21`
