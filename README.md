@@ -7,8 +7,7 @@ These images have been modified to create a `libc.so` symlink for compatibility 
 Images are hosted on `ghcr.io` and exist under the `java` space. 
 Since Clouds Studios products rely solely on Java 11+, we have modified only the Java 11+ Docker images and removed all others.
 
-All of these images are available for `linux/amd64` and `linux/arm64` versions, unless otherwise specified, to use
-these images on an arm64 system, no modification to them or the tag is needed, they should just work.
+All of these images are available only for `linux/amd64`.
 
 ## Contributing
 
