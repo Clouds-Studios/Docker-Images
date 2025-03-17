@@ -19,24 +19,24 @@ is tagged correctly.
 
 * [`java`](https://github.com/Clouds-Studios/docker-images/tree/master/java)
   * [`java11`](https://github.com/Clouds-Studios/docker-images/tree/master/java/11)
-    * `ghcr.io/cloudsstudios/yolks:java_11`
+    * `ghcr.io/clouds-studios/yolks:java_11`
   * [`java11 - OpenJ9`](https://github.com/Clouds-Studios/docker-images/tree/master/java/11j9)
-    * `ghcr.io/cloudsstudios/yolks:java_11j9`
+    * `ghcr.io/clouds-studios/yolks:java_11j9`
   * [`java16`](https://github.com/Clouds-Studios/docker-images/tree/master/java/16)
-    * `ghcr.io/cloudsstudios/yolks:java_16`
+    * `ghcr.io/clouds-studios/yolks:java_16`
   * [`java16 - OpenJ9`](https://github.com/Clouds-Studios/docker-images/tree/master/java/16j9)
-    * `ghcr.io/cloudsstudios/yolks:java_16j9`
+    * `ghcr.io/clouds-studios/yolks:java_16j9`
   * [`java17`](https://github.com/Clouds-Studios/docker-images/tree/master/java/17)
-    * `ghcr.io/cloudsstudios/yolks:java_17`
+    * `ghcr.io/clouds-studios/yolks:java_17`
   * [`java17 - OpenJ9`](https://github.com/Clouds-Studios/docker-images/tree/master/java/17j9)
-    * `ghcr.io/cloudsstudios/yolks:java_17j9`
+    * `ghcr.io/clouds-studios/yolks:java_17j9`
   * [`java18`](https://github.com/Clouds-Studios/docker-images/tree/master/java/18)
-    * `ghcr.io/cloudsstudios/yolks:java_18`
+    * `ghcr.io/clouds-studios/yolks:java_18`
   * [`java18 - OpenJ9`](https://github.com/Clouds-Studios/docker-images/tree/master/java/18j9)
-    * `ghcr.io/cloudsstudios/yolks:java_18j9`
+    * `ghcr.io/clouds-studios/yolks:java_18j9`
   * [`java19`](https://github.com/Clouds-Studios/docker-images/tree/master/java/19)
-    * `ghcr.io/cloudsstudios/yolks:java_19`
+    * `ghcr.io/clouds-studios/yolks:java_19`
   * [`java19 - OpenJ9`](https://github.com/Clouds-Studios/docker-images/tree/master/java/19j9)
-    * `ghcr.io/cloudsstudios/yolks:java_19j9`
+    * `ghcr.io/clouds-studios/yolks:java_19j9`
   * [`java21`](https://github.com/Clouds-Studios/docker-images/tree/master/java/21)
-    * `ghcr.io/cloudsstudios/yolks:java_21`
+    * `ghcr.io/clouds-studios/yolks:java_21`
